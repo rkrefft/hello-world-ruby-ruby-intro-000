@@ -1,1 +1,2 @@
-puts "Welcome to Tic Tac Toe!
+ruby lib/welcome.#!/usr/bin/env ruby -wKU
+
